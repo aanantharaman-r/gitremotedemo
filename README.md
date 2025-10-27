@@ -1,3 +1,3 @@
 # gitremotedemo
 This repo was create to showcase Git Remote server capabilities...
-This line is to show the demo of VS Code Integeration withGithub
+This line is to show the demo of VS Code Integeration with Github
